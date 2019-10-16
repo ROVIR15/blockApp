@@ -1,0 +1,27 @@
+{
+    "config" : {
+        "default_account": "0x8d9D6a151bfb4b7d5d37f61Be56964f755DE3767",
+        "private_key": "0x7E3BF0EB37EF6B60EAAA0E18150977F6CD2C31A8200D9F3EE05D6D8A937E61F5"
+    },
+
+    "contract" : {
+        "VotingCreator" : {
+            "address" : "0x5f5ed38d71b50e6f9ddadab06ed3871bdbf0707a",
+            "transaction_hash" : "0xe86acf8c6c2839c433b90cc0699d4b75e5d71a693368593948b3edd8c674024b"
+        },
+        "Election" : {
+            "address" : "0x77092b86f615bb8e0b983d6e2b452e7b3cb680f7",
+            "transaction_hash" : "0x5313cef0eeeff16b25a2babf8c51783d35233585f4f2c74603bb3cd54c464c5a"
+        },
+        "Ballot" : {
+            "address" : "0xc906d40df4808390397a3e704113b3903deb0cdc",
+            "transaction_hash": "0xe9c1a23bb50716e3db8b67586afcd55ea8159383aa2d5740f44c688b80cd8d56"
+        }
+    },
+    
+    "options" : {
+        "nonce" : "0",
+        "gasLimit" : "500000",
+        "gasPrice" : "100000000"
+    }
+}
